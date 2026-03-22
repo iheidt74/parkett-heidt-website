@@ -22,6 +22,7 @@ export default defineConfig({
         referenzen: resolve(__dirname, 'referenzen.html'),
         kontakt: resolve(__dirname, 'kontakt.html'),
         impressum: resolve(__dirname, 'impressum.html'),
+        konfigurator: resolve(__dirname, 'konfigurator.html'),
         ...leistungenPages
       }
     }
