@@ -2,6 +2,7 @@
  * Konfigurator – Parkett Heidt
  * Step navigation, option selection, file upload, validation, form submission
  */
+import './konfigurator.css';
 document.addEventListener('DOMContentLoaded', function() {
   'use strict';
 
