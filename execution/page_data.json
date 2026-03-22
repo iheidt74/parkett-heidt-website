@@ -1,0 +1,1829 @@
+{
+  "parkett-verlegen.html": {
+    "title": "Parkett verlegen",
+    "hero_desc": "Echtholzparkett vom Meisterbetrieb – fachgerecht verlegt für ein Ergebnis, das Generationen überdauert.",
+    "intro": "Parkett ist der Inbegriff von Wohnkultur und natürlicher Schönheit. Als Meisterbetrieb mit langjähriger Erfahrung verlegen wir Ihr Parkett mit höchster Präzision und Sorgfalt.",
+    "info_box": "Echtholzparkett kann bei richtiger Pflege über 100 Jahre halten und mehrfach abgeschliffen werden. Es steigert zudem den Wert Ihrer Immobilie nachweislich.",
+    "intro2": "Wir arbeiten ausschließlich mit hochwertigen Hölzern wie Eiche, Nussbaum, Ahorn und Buche. Jedes Projekt wird individuell geplant – von der Untergrundvorbereitung bis zur finalen Oberflächenbehandlung.",
+    "benefits_title": "Ihre Vorteile mit Parkett",
+    "benefits": [
+      {
+        "icon": "check-circle",
+        "title": "Meisterqualität",
+        "text": "Fachgerechte Verlegung durch ausgebildete Parkettleger-Meister."
+      },
+      {
+        "icon": "leaf",
+        "title": "Natürliches Material",
+        "text": "100% Echtholz für ein gesundes Raumklima und Wohlfühlatmosphäre."
+      },
+      {
+        "icon": "sync-alt",
+        "title": "Langlebigkeit",
+        "text": "Bei richtiger Pflege hält Parkett über 100 Jahre und kann mehrfach renoviert werden."
+      },
+      {
+        "icon": "home",
+        "title": "Wertsteigerung",
+        "text": "Parkettböden steigern den Immobilienwert um bis zu 10%."
+      }
+    ],
+    "process_title": "Unser Ablauf",
+    "process": [
+      {
+        "title": "Beratung",
+        "text": "Kostenlose Vor-Ort-Beratung mit Musterauswahl und Aufmaß."
+      },
+      {
+        "title": "Vorbereitung",
+        "text": "Professionelle Untergrundprüfung und -vorbereitung."
+      },
+      {
+        "title": "Verlegung",
+        "text": "Fachgerechte Verlegung nach DIN-Normen."
+      },
+      {
+        "title": "Finish",
+        "text": "Schleifen, Versiegeln oder Ölen nach Ihren Wünschen."
+      }
+    ],
+    "table": {
+      "title": "Parkettarten im Vergleich",
+      "columns": [
+        "Eigenschaft",
+        "Stabparkett",
+        "Fertigparkett",
+        "Massivparkett"
+      ],
+      "rows": [
+        [
+          "Dicke",
+          "22 mm",
+          "14–15 mm",
+          "22 mm"
+        ],
+        [
+          "Abschleifbar",
+          {
+            "val": "✓ Mehrfach",
+            "cls": "check"
+          },
+          "✓ 1–2x",
+          {
+            "val": "✓ Mehrfach",
+            "cls": "check"
+          }
+        ],
+        [
+          "Verlegezeit",
+          "Mittel",
+          "Schnell",
+          "Aufwendig"
+        ],
+        [
+          "Fußbodenheizung",
+          {
+            "val": "✓ Bedingt",
+            "cls": "check"
+          },
+          {
+            "val": "✓ Ja",
+            "cls": "check"
+          },
+          {
+            "val": "✗ Bedingt",
+            "cls": "cross"
+          }
+        ],
+        [
+          "Lebensdauer",
+          "80+ Jahre",
+          "30–50 Jahre",
+          "100+ Jahre"
+        ]
+      ]
+    },
+    "faqs": [
+      {
+        "q": "Wie lange dauert die Parkettverlegung?",
+        "a": "Je nach Raumgröße und Verlegemuster dauert die Verlegung zwischen 1–3 Tagen pro Raum. Hinzu kommen Trocknungszeiten."
+      },
+      {
+        "q": "Ist Parkett für Fußbodenheizung geeignet?",
+        "a": "Ja, viele Parkettarten sind geeignet. Besonders Fertigparkett und dünnes Stabparkett eignen sich hervorragend."
+      },
+      {
+        "q": "Was kostet Parkettverlegung pro m²?",
+        "a": "Die Kosten variieren zwischen 45–120 €/m² inkl. Material und Verlegung, je nach Holzart und Verlegemuster."
+      }
+    ],
+    "cta_title": "Jetzt kostenlose Beratung anfragen",
+    "cta_text": "Wir beraten Sie gerne persönlich zu Ihrem Parkettboden-Projekt."
+  },
+  "dielen-verlegen.html": {
+    "title": "Dielen verlegen",
+    "hero_desc": "Raumfüllende Schönheit mit breiten Massivholzdielen – natürlich, robust und charaktervoll.",
+    "intro": "Dielen verleihen jedem Raum eine besondere Atmosphäre. Die breiten, langen Bretter aus Echtholz betonen die natürliche Maserung und schaffen ein warmes, einladendes Ambiente.",
+    "info_box": "Massivholzdielen können bis zu 200 mm breit und über 5 m lang sein. Je breiter die Diele, desto imposanter die Wirkung – und desto anspruchsvoller die Verlegung.",
+    "intro2": "Wir verlegen Dielen aus allen gängigen Holzarten – von Eiche über Lärche bis Douglasie. Ob gebürstet, geräuchert oder naturbelassen – wir beraten Sie individuell.",
+    "benefits_title": "Ihre Vorteile mit Dielen",
+    "benefits": [
+      {
+        "icon": "tree",
+        "title": "Natürliche Optik",
+        "text": "Breite Dielen betonen die einzigartige Holzmaserung jedes einzelnen Bretts."
+      },
+      {
+        "icon": "expand-arrows-alt",
+        "title": "Raumwirkung",
+        "text": "Lange Dielen lassen Räume optisch größer und offener erscheinen."
+      },
+      {
+        "icon": "sync-alt",
+        "title": "Renovierbar",
+        "text": "Massivholzdielen können mehrfach abgeschliffen und neu behandelt werden."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Extrem Robust",
+        "text": "Die hohe Materialstärke macht Dielen besonders langlebig und belastbar."
+      }
+    ],
+    "process_title": "Unser Ablauf bei der Dielenverlegung",
+    "process": [
+      {
+        "title": "Holzauswahl",
+        "text": "Gemeinsame Auswahl der Holzart, Breite und Oberflächenbehandlung."
+      },
+      {
+        "title": "Untergrund",
+        "text": "Überprüfung und Vorbereitung des Untergrunds inkl. Dampfsperre."
+      },
+      {
+        "title": "Verlegung",
+        "text": "Verschraubung oder Verklebung nach bewährter Handwerkstradition."
+      },
+      {
+        "title": "Finish",
+        "text": "Schleifen und Oberflächenbehandlung (Öl, Lack oder Wachs)."
+      }
+    ],
+    "table": {
+      "title": "Dielenarten im Vergleich",
+      "columns": [
+        "Eigenschaft",
+        "Massivholzdielen",
+        "Landhausdielen (3-Schicht)",
+        "Schiffsbodendielen"
+      ],
+      "rows": [
+        [
+          "Breite",
+          "120–200 mm",
+          "180–260 mm",
+          "60–80 mm"
+        ],
+        [
+          "Dicke",
+          "20–22 mm",
+          "14–15 mm",
+          "14 mm"
+        ],
+        [
+          "Fußbodenheizung",
+          {
+            "val": "✗ Bedingt",
+            "cls": "cross"
+          },
+          {
+            "val": "✓ Ja",
+            "cls": "check"
+          },
+          {
+            "val": "✓ Ja",
+            "cls": "check"
+          }
+        ],
+        [
+          "Abschleifbar",
+          {
+            "val": "✓ Mehrfach",
+            "cls": "check"
+          },
+          "✓ 1–2x",
+          "✓ 1–2x"
+        ],
+        [
+          "Preislage",
+          "Hoch",
+          "Mittel",
+          "Günstig–Mittel"
+        ]
+      ]
+    },
+    "faqs": [
+      {
+        "q": "Welche Holzart eignet sich am besten für Dielen?",
+        "a": "Eiche ist der Klassiker – extrem hart und vielseitig. Für rustikale Optik empfehlen wir Lärche oder Douglasie."
+      },
+      {
+        "q": "Können Dielen auf Fußbodenheizung verlegt werden?",
+        "a": "Landhausdielen (3-Schicht) sind dafür geeignet. Bei Massivholzdielen ist eine Einzelfallprüfung nötig."
+      },
+      {
+        "q": "Was kosten Dielen pro m²?",
+        "a": "Je nach Holzart und Breite liegen die Kosten inkl. Verlegung zwischen 60–150 €/m²."
+      }
+    ]
+  },
+  "tafelparkett-verlegen.html": {
+    "title": "Tafelparkett verlegen",
+    "hero_desc": "Exklusive Muster für anspruchsvolle Räume – Tafelparkett als Zeichen edler Handwerkskunst.",
+    "intro": "Tafelparkett gehört zu den edelsten Parkettarten überhaupt. Die kunstvollen Muster aus verschiedenen Holzarten verwandeln Böden in wahre Kunstwerke.",
+    "info_box": "Tafelparkett war ursprünglich den Schlössern und Palästen des europäischen Adels vorbehalten. Heute bringen wir diese Exklusivität in Ihr Zuhause.",
+    "intro2": "Ob Versailler Muster, Rauten oder individuelle Designs – wir fertigen und verlegen Tafelparkett exakt nach Ihren Vorstellungen.",
+    "benefits_title": "Ihre Vorteile mit Tafelparkett",
+    "benefits": [
+      {
+        "icon": "gem",
+        "title": "Exklusivität",
+        "text": "Einzigartige Muster, die jeden Raum zum Blickfang machen."
+      },
+      {
+        "icon": "palette",
+        "title": "Individuelle Designs",
+        "text": "Kombination verschiedener Holzarten für einzigartige Muster."
+      },
+      {
+        "icon": "award",
+        "title": "Meisterhandwerk",
+        "text": "Höchste Präzision bei der Fertigung und Verlegung."
+      },
+      {
+        "icon": "home",
+        "title": "Wertsteigerung",
+        "text": "Tafelparkett steigert den Wert jeder Immobilie erheblich."
+      }
+    ],
+    "process_title": "Unser Ablauf",
+    "process": [
+      {
+        "title": "Design",
+        "text": "Gemeinsame Musterauswahl und Planung des Verlegebildes."
+      },
+      {
+        "title": "Fertigung",
+        "text": "Präzise Vorfertigung der einzelnen Tafeln."
+      },
+      {
+        "title": "Verlegung",
+        "text": "Millimetergenaue Verlegung durch unsere Spezialisten."
+      },
+      {
+        "title": "Versiegelung",
+        "text": "Schleifen und edle Oberflächenbehandlung."
+      }
+    ],
+    "table": null,
+    "faqs": [
+      {
+        "q": "Wie aufwendig ist Tafelparkett?",
+        "a": "Die Verlegung dauert länger als bei Standardparkett, da jede Tafel exakt positioniert wird. In der Regel planen wir 3–5 Tage pro Raum."
+      },
+      {
+        "q": "Welche Holzarten werden kombiniert?",
+        "a": "Klassisch sind Kombinationen aus Eiche mit Nussbaum, Ahorn oder Kirschbaum."
+      },
+      {
+        "q": "Was kostet Tafelparkett?",
+        "a": "Je nach Komplexität des Musters und der Holzarten liegt der Preis bei 120–300 €/m²."
+      }
+    ]
+  },
+  "wuerfelparkett-verlegen.html": {
+    "title": "Würfelparkett verlegen",
+    "hero_desc": "Geometrische Eleganz mit klassischem Charme – Würfelparkett für zeitlose Innenräume.",
+    "intro": "Würfelparkett besticht durch sein markantes Schachbrett-Muster. Die einzelnen Lamellen werden in quadratischen Blöcken angeordnet und erzeugen ein lebhaftes, geometrisches Verlegebild.",
+    "info_box": "Würfelparkett erzeugt je nach Lichteinfall einen faszinierenden 3D-Effekt, da die abwechselnd längs und quer verlegten Lamellen das Licht unterschiedlich reflektieren.",
+    "benefits_title": "Ihre Vorteile",
+    "benefits": [
+      {
+        "icon": "th",
+        "title": "Markantes Muster",
+        "text": "Das klassische Schachbrett-Muster ist ein zeitloser Blickfang."
+      },
+      {
+        "icon": "sun",
+        "title": "Lichtspiel",
+        "text": "Faszinierende optische Effekte durch den wechselnden Lichteinfall."
+      },
+      {
+        "icon": "tools",
+        "title": "Robust",
+        "text": "Durch die Mosaikverlegung extrem stabil und langlebig."
+      },
+      {
+        "icon": "euro-sign",
+        "title": "Preis-Leistung",
+        "text": "Edle Optik zu einem attraktiven Preis-Leistungs-Verhältnis."
+      }
+    ],
+    "process_title": "Unser Ablauf",
+    "process": [
+      {
+        "title": "Beratung",
+        "text": "Auswahl der Holzart und Blockgröße."
+      },
+      {
+        "title": "Untergrund",
+        "text": "Exakte Untergrundvorbereitung."
+      },
+      {
+        "title": "Verlegung",
+        "text": "Präzise Verklebung der Würfelblöcke."
+      },
+      {
+        "title": "Finish",
+        "text": "Schleifen und Versiegeln."
+      }
+    ],
+    "table": null,
+    "faqs": [
+      {
+        "q": "Welche Blockgrößen gibt es?",
+        "a": "Standardgrößen sind 12x12 cm, 16x16 cm und 22x22 cm, bestehend aus einzelnen Lamellen."
+      },
+      {
+        "q": "Ist Würfelparkett für Fußbodenheizung geeignet?",
+        "a": "Ja, durch die vielen Fugen kann sich das Holz gleichmäßig ausdehnen."
+      }
+    ]
+  },
+  "flechtparkett-verlegen.html": {
+    "title": "Flechtparkett verlegen",
+    "hero_desc": "Kunstvolles Flechtmuster für stilsichere Räume – ein Zeichen von Eleganz und Handwerkskunst.",
+    "intro": "Flechtparkett, auch als Korbflechtmuster bekannt, ist eine raffinierte Variante der Parkettverlegung. Die ineinander verschlungenen Holzelemente erzeugen ein beeindruckendes, dreidimensionales Erscheinungsbild.",
+    "info_box": "Das Flechtmuster hat seinen Ursprung in der traditionellen Korbflechterei und wurde im 18. Jahrhundert erstmals auf Parkettböden übertragen.",
+    "benefits_title": "Ihre Vorteile",
+    "benefits": [
+      {
+        "icon": "border-all",
+        "title": "Einzigartiges Muster",
+        "text": "Das Flechtmuster ist ein echter Hingucker in jedem Raum."
+      },
+      {
+        "icon": "cubes",
+        "title": "3D-Wirkung",
+        "text": "Der verschlungene Aufbau erzeugt eine faszinierende räumliche Tiefe."
+      },
+      {
+        "icon": "check-circle",
+        "title": "Meisterhandwerk",
+        "text": "Höchste Kunstfertigkeit in der Verlegung."
+      },
+      {
+        "icon": "sync-alt",
+        "title": "Langlebig",
+        "text": "Abschleifbar und mehrfach renovierbar."
+      }
+    ],
+    "process_title": "Unser Ablauf",
+    "process": [
+      {
+        "title": "Beratung",
+        "text": "Abstimmung von Holzart und Flechtmuster-Variante."
+      },
+      {
+        "title": "Zuschnitt",
+        "text": "Präziser Zuschnitt der Flechtlamellen."
+      },
+      {
+        "title": "Verlegung",
+        "text": "Sorgfältige Verlegung des Flechtmusters."
+      },
+      {
+        "title": "Finish",
+        "text": "Sorgfältiges Schleifen und Oberflächenbehandlung."
+      }
+    ],
+    "table": null,
+    "faqs": [
+      {
+        "q": "Wie aufwendig ist die Verlegung?",
+        "a": "Flechtparkett ist aufwendiger als klassisches Stabparkett. Planen Sie 2–4 Tage pro Raum ein."
+      },
+      {
+        "q": "Welche Holzart empfehlen Sie?",
+        "a": "Eiche ist aufgrund ihrer Härte und Maserung ideal für Flechtparkett."
+      }
+    ]
+  },
+  "lindura-holzboden.html": {
+    "title": "Lindura Holzboden verlegen",
+    "hero_desc": "Innovation trifft Natur – Lindura vereint echtes Holz mit maximaler Strapazierfähigkeit.",
+    "intro": "Lindura von MEISTER ist ein revolutionärer Holzboden, der echtes Holz mit einer einzigartigen Mineralkern-Technologie verbindet. Das Ergebnis ist ein Boden, der natürlich aussieht, sich warm anfühlt und extreme Beanspruchung aushält.",
+    "info_box": "Lindura ist dank HDF-Trägerplatte mit Mineralkern bis zu 3x härter als herkömmliches Parkett – ideal für stark beanspruchte Bereiche wie Flure und Küchen.",
+    "intro2": "Als zertifizierter MEISTER-Fachbetrieb verlegen wir Lindura-Böden fachgerecht und beraten Sie zu allen verfügbaren Dekoren und Oberflächen.",
+    "benefits_title": "Ihre Vorteile mit Lindura",
+    "benefits": [
+      {
+        "icon": "shield-alt",
+        "title": "Extrem Hart",
+        "text": "Bis zu 3x härter als herkömmliches Parkett durch Mineralkern-Technologie."
+      },
+      {
+        "icon": "leaf",
+        "title": "Echtes Holz",
+        "text": "Authentische Holzoberfläche mit natürlicher Haptik und Optik."
+      },
+      {
+        "icon": "fire",
+        "title": "Fußbodenheizung",
+        "text": "Bestens geeignet für alle Fußbodenheizungssysteme."
+      },
+      {
+        "icon": "bolt",
+        "title": "Schnell verlegt",
+        "text": "Dank Click-System in kurzer Zeit schwimmend verlegbar."
+      }
+    ],
+    "process_title": "Unser Ablauf",
+    "process": [
+      {
+        "title": "Beratung",
+        "text": "Dekor- und Formatauswahl aus dem MEISTER-Sortiment."
+      },
+      {
+        "title": "Untergrund",
+        "text": "Prüfung und ggf. Egalisierung des Untergrunds."
+      },
+      {
+        "title": "Verlegung",
+        "text": "Schwimmende Verlegung mit dem MEISTER-Click-System."
+      },
+      {
+        "title": "Fertigstellung",
+        "text": "Montage von Sockelleisten und Übergangsprofilen."
+      }
+    ],
+    "table": {
+      "title": "Lindura vs. klassisches Parkett",
+      "columns": [
+        "Eigenschaft",
+        "Lindura Holzboden",
+        "Fertigparkett",
+        "Massivparkett"
+      ],
+      "rows": [
+        [
+          "Härte",
+          {
+            "val": "✓ Sehr hoch",
+            "cls": "check"
+          },
+          "Mittel",
+          "Hoch"
+        ],
+        [
+          "Fußbodenheizung",
+          {
+            "val": "✓ Optimal",
+            "cls": "check"
+          },
+          {
+            "val": "✓ Ja",
+            "cls": "check"
+          },
+          {
+            "val": "✗ Bedingt",
+            "cls": "cross"
+          }
+        ],
+        [
+          "Aufbauhöhe",
+          "11 mm",
+          "14–15 mm",
+          "22 mm"
+        ],
+        [
+          "Verlegung",
+          "Schwimmend (Click)",
+          "Schwimmend/Geklebt",
+          "Geklebt/Genagelt"
+        ],
+        [
+          "Pflegeaufwand",
+          {
+            "val": "Gering",
+            "cls": "check"
+          },
+          "Mittel",
+          "Hoch"
+        ]
+      ]
+    },
+    "faqs": [
+      {
+        "q": "Ist Lindura echtes Holz?",
+        "a": "Ja! Die Oberfläche besteht aus echtem Holz, das auf einer HDF-Trägerplatte mit mineralischem Kern aufgebracht ist."
+      },
+      {
+        "q": "Kann Lindura abgeschliffen werden?",
+        "a": "Lindura kann einmalig nachgeschliffen werden, was für die Lebensdauer in der Regel ausreichend ist."
+      },
+      {
+        "q": "Was kostet Lindura?",
+        "a": "Lindura liegt preislich zwischen Laminat und Massivparkett – je nach Dekor zwischen 50–85 €/m² inkl. Verlegung."
+      }
+    ]
+  },
+  "laminat-verlegen.html": {
+    "title": "Laminat verlegen",
+    "hero_desc": "Der smarte Allrounder – Laminat für jeden Wohnbereich, schnell verlegt und budgetfreundlich.",
+    "intro": "Laminat ist die clevere Wahl für alle, die ein hochwertiges Bodenbild zu einem attraktiven Preis wünschen. Moderne Laminate überzeugen durch täuschend echte Holz- und Steinoptiken und sind dank Click-System besonders schnell verlegt.",
+    "info_box": "Modernes Laminat der Nutzungsklasse 32 oder 33 hält auch starker gewerblicher Beanspruchung stand und ist dabei pflegeleichter als viele Echtholzböden.",
+    "intro2": "Wir verlegen Marken-Laminat von führenden Herstellern wie MEISTER, HARO und Quick-Step – immer mit professioneller Trittschalldämmung.",
+    "benefits_title": "Ihre Vorteile mit Laminat",
+    "benefits": [
+      {
+        "icon": "euro-sign",
+        "title": "Preis-Leistung",
+        "text": "Edle Optik zu einem fairen Preis – ideal für große Flächen."
+      },
+      {
+        "icon": "bolt",
+        "title": "Schnelle Verlegung",
+        "text": "Dank Click-System in kürzester Zeit verlegt."
+      },
+      {
+        "icon": "broom",
+        "title": "Pflegeleicht",
+        "text": "Einfach zu reinigen, lichtecht und antistatisch."
+      },
+      {
+        "icon": "fire",
+        "title": "Fußbodenheizung",
+        "text": "Die meisten Laminate sind für Fußbodenheizung geeignet."
+      }
+    ],
+    "process_title": "Unser Ablauf",
+    "process": [
+      {
+        "title": "Beratung",
+        "text": "Kostenlose Vor-Ort-Beratung mit Musterauswahl."
+      },
+      {
+        "title": "Vorbereitung",
+        "text": "Professionelle Untergrundvorbereitung und Trittschallverlegung."
+      },
+      {
+        "title": "Verlegung",
+        "text": "Fachgerechte Verlegung nach Herstellervorgaben."
+      },
+      {
+        "title": "Übergabe",
+        "text": "Einweisung in Pflege und Reinigung."
+      }
+    ],
+    "table": {
+      "title": "Laminat-Klassen im Vergleich",
+      "columns": [
+        "Eigenschaft",
+        "NK 31 (Wohnung)",
+        "NK 32 (Gewerbe leicht)",
+        "NK 33 (Gewerbe stark)"
+      ],
+      "rows": [
+        [
+          "Einsatzbereich",
+          "Schlafzimmer, Gästezimmer",
+          "Wohnzimmer, Flure",
+          "Büros, Geschäfte"
+        ],
+        [
+          "Abriebfestigkeit",
+          "Mittel",
+          {
+            "val": "Hoch",
+            "cls": "check"
+          },
+          {
+            "val": "Sehr hoch",
+            "cls": "check"
+          }
+        ],
+        [
+          "Lebensdauer",
+          "10–15 Jahre",
+          "15–25 Jahre",
+          "20–30 Jahre"
+        ],
+        [
+          "Preislage",
+          "Günstig",
+          "Mittel",
+          "Mittel–Hoch"
+        ]
+      ]
+    },
+    "faqs": [
+      {
+        "q": "Was kostet Laminat verlegen?",
+        "a": "Inkl. Material und Verlegung liegen die Kosten zwischen 25–55 €/m², je nach Qualitätsklasse."
+      },
+      {
+        "q": "Wie lange hält Laminat?",
+        "a": "Je nach Nutzungsklasse und Pflege zwischen 10 und 30 Jahren."
+      },
+      {
+        "q": "Kann Laminat in Feuchträumen verlegt werden?",
+        "a": "Standard-Laminat ist nicht für Nassräume geeignet. Es gibt aber spezielle Feuchtraum-Laminate."
+      }
+    ]
+  },
+  "teppich-verlegen.html": {
+    "title": "Teppich verlegen",
+    "hero_desc": "Wärme, Behaglichkeit und Komfort unter den Füßen – professionelle Teppichverlegung vom Meisterbetrieb.",
+    "intro": "Teppichboden bietet unvergleichlichen Komfort: Er ist weich, warm, trittschalldämmend und schafft eine gemütliche Atmosphäre in jedem Raum.",
+    "info_box": "Teppichboden reduziert den Trittschall um bis zu 50% mehr als harte Bodenbeläge – ideal für Schlafzimmer, Kinderzimmer und Mehrfamilienhäuser.",
+    "benefits_title": "Ihre Vorteile mit Teppich",
+    "benefits": [
+      {
+        "icon": "cloud",
+        "title": "Komfort",
+        "text": "Weich und warm unter den Füßen – ideal für Wohn- und Schlafräume."
+      },
+      {
+        "icon": "volume-mute",
+        "title": "Schalldämmend",
+        "text": "Bis zu 50% bessere Trittschalldämmung als harte Böden."
+      },
+      {
+        "icon": "palette",
+        "title": "Vielfalt",
+        "text": "Riesige Auswahl an Farben, Mustern und Materialien."
+      },
+      {
+        "icon": "child",
+        "title": "Sicher",
+        "text": "Rutschfest und sturzmindernd – perfekt für Kinderzimmer."
+      }
+    ],
+    "process_title": "Unser Ablauf",
+    "process": [
+      {
+        "title": "Beratung",
+        "text": "Auswahl des Teppichmaterials (Wolle, Kunstfaser, Sisal etc.)."
+      },
+      {
+        "title": "Aufmaß",
+        "text": "Präzises Aufmaß und Bestellung des Teppichs."
+      },
+      {
+        "title": "Verlegung",
+        "text": "Professionelle Verklebung oder Verspannung."
+      },
+      {
+        "title": "Finish",
+        "text": "Saubere Nahtverarbeitung und Randleistenverlegung."
+      }
+    ],
+    "table": null,
+    "faqs": [
+      {
+        "q": "Welches Teppichmaterial ist am besten?",
+        "a": "Wolle ist die Premiumwahl (natürlich, langlebig), Polyamid ist robust und pflegeleicht, Sisal ist ideal für Allergiker."
+      },
+      {
+        "q": "Kann Teppich über Fußbodenheizung verlegt werden?",
+        "a": "Ja, mit dünnerem Teppich und geeigneter Unterlage funktioniert das problemlos."
+      }
+    ]
+  },
+  "parkettaufbereitung.html": {
+    "title": "Parkettaufbereitung",
+    "hero_desc": "Neuer Glanz für Ihren alten Parkettboden – professionelle Aufbereitung wie am ersten Tag.",
+    "intro": "Ihr Parkettboden hat über die Jahre Gebrauchsspuren bekommen? Kein Grund für einen Neukauf! Mit unserer professionellen Aufbereitung erstrahlt Ihr Boden in neuem Glanz.",
+    "info_box": "Eine professionelle Parkettaufbereitung kostet nur etwa 30–40% eines neuen Parkettbodens und spart dabei jede Menge Ressourcen und CO₂.",
+    "intro2": "Wir setzen moderne, staubarme Schleiftechnik ein und bieten verschiedene Oberflächenbehandlungen – von seidenmatt geölt bis hochglanz versiegelt.",
+    "benefits_title": "Ihre Vorteile",
+    "benefits": [
+      {
+        "icon": "recycle",
+        "title": "Nachhaltig",
+        "text": "Statt Neukauf: Ihr bestehender Boden wird vollständig erneuert."
+      },
+      {
+        "icon": "euro-sign",
+        "title": "Kostenersparnis",
+        "text": "Nur 30–40% der Kosten eines neuen Parkettbodens."
+      },
+      {
+        "icon": "fan",
+        "title": "Staubfrei",
+        "text": "Moderne Schleiftechnik mit 99% Staubabsaugung."
+      },
+      {
+        "icon": "star",
+        "title": "Wie Neu",
+        "text": "Kratzer, Dellen und Verfärbungen werden restlos entfernt."
+      }
+    ],
+    "process_title": "Unser Aufbereitungs-Ablauf",
+    "process": [
+      {
+        "title": "Zustandsanalyse",
+        "text": "Begutachtung des Parketts und Festlegung der Maßnahmen."
+      },
+      {
+        "title": "Schleifen",
+        "text": "Staubarmes Schleifen in mehreren Durchgängen."
+      },
+      {
+        "title": "Behandlung",
+        "text": "Ölen, Wachsen oder Versiegeln nach Ihrem Wunsch."
+      },
+      {
+        "title": "Endkontrolle",
+        "text": "Qualitätsprüfung und Pflegetipps für Sie."
+      }
+    ],
+    "table": null,
+    "faqs": [
+      {
+        "q": "Wie oft kann Parkett aufbereitet werden?",
+        "a": "Massivparkett kann 5–8 Mal abgeschliffen werden, Fertigparkett 1–2 Mal."
+      },
+      {
+        "q": "Wie lange dauert die Aufbereitung?",
+        "a": "In der Regel 1–2 Tage pro Raum, plus Trocknungszeit der Oberflächenbehandlung."
+      },
+      {
+        "q": "Muss ich die Möbel ausräumen?",
+        "a": "Ja, der Raum sollte möglichst leer sein. Auf Wunsch helfen wir beim Umräumen."
+      }
+    ]
+  },
+  "parkett-schleifen.html": {
+    "title": "Parkett schleifen",
+    "hero_desc": "Staubarmes Schleifen für perfekte Oberflächen – Ihr Parkettboden wie am ersten Tag.",
+    "intro": "Das Schleifen ist der wichtigste Schritt bei der Parkettrenovierung. Wir setzen modernste, staubarme Schleiftechnik ein.",
+    "info_box": "Unsere Staubabsaugung entfernt bis zu 99% des Schleifstaubs – so bleibt Ihre Wohnung sauber.",
+    "benefits_title": "Ihre Vorteile",
+    "benefits": [
+      {
+        "icon": "fan",
+        "title": "Staubarmes Arbeiten",
+        "text": "99% Staubabsaugung."
+      },
+      {
+        "icon": "hammer",
+        "title": "Perfekte Oberfläche",
+        "text": "Mehrstufiges Schleifen für makelloses Ergebnis."
+      },
+      {
+        "icon": "clock",
+        "title": "Schnell fertig",
+        "text": "In der Regel 1 Tag pro Raum."
+      },
+      {
+        "icon": "leaf",
+        "title": "Nachhaltig",
+        "text": "Renovieren statt Wegwerfen."
+      }
+    ],
+    "process_title": "Unser Schleif-Ablauf",
+    "process": [
+      {
+        "title": "Analyse",
+        "text": "Prüfung des Holzzustands und der Schichtstärke."
+      },
+      {
+        "title": "Grobschliff",
+        "text": "Entfernung der alten Oberfläche."
+      },
+      {
+        "title": "Feinschliff",
+        "text": "Mehrere Durchgänge für perfekte Glätte."
+      },
+      {
+        "title": "Behandlung",
+        "text": "Ölen, Wachsen oder Versiegeln."
+      }
+    ],
+    "table": null,
+    "faqs": [
+      {
+        "q": "Wie oft kann Parkett geschliffen werden?",
+        "a": "Massivparkett 5-8 Mal, Fertigparkett 1-2 Mal."
+      },
+      {
+        "q": "Entstehen Gerüche?",
+        "a": "Beim Schleifen kaum. Bei Versiegelung je nach Produkt leichte Gerüche."
+      }
+    ]
+  },
+  "fussboeden-entfernen.html": {
+    "title": "Fußböden entfernen",
+    "hero_desc": "Professioneller Rückbau alter Bodenbeläge – sauber, schnell und fachgerecht.",
+    "intro": "Bevor ein neuer Boden kommt, muss der alte fachgerecht entfernt werden. Ob Teppich, PVC, Fliesen oder Parkett – wir entfernen jeden Belag.",
+    "info_box": "Wir entsorgen alle Materialien fachgerecht und umweltkonform. Die Entsorgungskosten sind im Angebot enthalten.",
+    "benefits_title": "Ihre Vorteile",
+    "benefits": [
+      {
+        "icon": "trash",
+        "title": "Komplettservice",
+        "text": "Entfernung und Entsorgung aus einer Hand."
+      },
+      {
+        "icon": "broom",
+        "title": "Sauber",
+        "text": "Besenreine Übergabe."
+      },
+      {
+        "icon": "tools",
+        "title": "Alle Beläge",
+        "text": "Parkett, Fliesen, Teppich, PVC."
+      },
+      {
+        "icon": "clock",
+        "title": "Schnell",
+        "text": "Effizient dank Profi-Maschinen."
+      }
+    ],
+    "process_title": "Unser Ablauf",
+    "process": [
+      {
+        "title": "Begutachtung",
+        "text": "Beurteilung des vorhandenen Belags."
+      },
+      {
+        "title": "Schutz",
+        "text": "Abdeckung empfindlicher Bereiche."
+      },
+      {
+        "title": "Rückbau",
+        "text": "Maschinelle oder manuelle Entfernung."
+      },
+      {
+        "title": "Entsorgung",
+        "text": "Fachgerechte Entsorgung aller Materialien."
+      }
+    ],
+    "table": null,
+    "faqs": [
+      {
+        "q": "Was kostet Bodenentfernung?",
+        "a": "8-25 €/m² inkl. Entsorgung je nach Belagsart."
+      },
+      {
+        "q": "Können Asbest-haltige Böden entfernt werden?",
+        "a": "Ja, wir arbeiten mit zertifizierten Fachbetrieben zusammen."
+      }
+    ]
+  },
+  "designbeschichtungen.html": {
+    "title": "Designbeschichtungen",
+    "hero_desc": "Fugenlose Böden mit Charakter – moderne Designbeschichtungen für individuelle Raumgestaltung.",
+    "intro": "Designbeschichtungen bieten eine fugenlose, moderne Alternative zu klassischen Bodenbelägen. Ob Beton-Optik, Terrazzo-Look oder individuelle Farbgestaltung.",
+    "info_box": "Fugenlose Beschichtungen sind extrem hygienisch – ideal für Allergiker und pflegesensible Bereiche.",
+    "benefits_title": "Ihre Vorteile",
+    "benefits": [
+      {
+        "icon": "paint-roller",
+        "title": "Fugenlos",
+        "text": "Keine Fugen, keine Schmutzfänger."
+      },
+      {
+        "icon": "palette",
+        "title": "Individuell",
+        "text": "Jede Farbe und Textur realisierbar."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Strapazierfähig",
+        "text": "Ideal für stark beanspruchte Flächen."
+      },
+      {
+        "icon": "home",
+        "title": "Modern",
+        "text": "Trend für hochwertige Innenarchitektur."
+      }
+    ],
+    "process_title": "Unser Ablauf",
+    "process": [
+      {
+        "title": "Design",
+        "text": "Farb- und Texturberatung vor Ort."
+      },
+      {
+        "title": "Grundierung",
+        "text": "Professionelle Untergrundvorbereitung."
+      },
+      {
+        "title": "Beschichtung",
+        "text": "Mehrschichtiger Auftrag."
+      },
+      {
+        "title": "Versiegelung",
+        "text": "Abschließende Schutzversiegelung."
+      }
+    ],
+    "table": null,
+    "faqs": [
+      {
+        "q": "Wo können Designbeschichtungen eingesetzt werden?",
+        "a": "Wohnräume, Bäder, Küchen, Treppen und Wände."
+      },
+      {
+        "q": "Wie lange hält eine Designbeschichtung?",
+        "a": "Bei fachgerechter Ausführung 15-25 Jahre und länger."
+      }
+    ]
+  },
+  "terrassen-bauen.html": {
+    "title": "Terrassen bauen",
+    "hero_desc": "Ihre Outdoor-Oase – professionell geplante und gebaute Holzterrassen.",
+    "intro": "Eine Holzterrasse erweitert Ihren Wohnraum nach draußen. Wir planen und bauen aus Bangkirai, Douglasie oder Thermoesche.",
+    "info_box": "Hochwertige Terrassenhölzer wie Bangkirai können ohne Holzschutz über 25 Jahre im Außenbereich bestehen.",
+    "benefits_title": "Ihre Vorteile",
+    "benefits": [
+      {
+        "icon": "umbrella-beach",
+        "title": "Outdoor-Wohnraum",
+        "text": "Stilvolle Außenfläche für Ihr Zuhause."
+      },
+      {
+        "icon": "tree",
+        "title": "Naturmaterial",
+        "text": "Echtes Holz für warmes Gefühl."
+      },
+      {
+        "icon": "ruler-combined",
+        "title": "Maßarbeit",
+        "text": "Individuelle Planung."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Langlebig",
+        "text": "Witterungsbeständige Hölzer."
+      }
+    ],
+    "process_title": "Unser Ablauf",
+    "process": [
+      {
+        "title": "Planung",
+        "text": "Aufmaß, Holzauswahl und Entwurf."
+      },
+      {
+        "title": "Unterbau",
+        "text": "Fundament und Unterkonstruktion."
+      },
+      {
+        "title": "Verlegung",
+        "text": "Präzise Montage der Dielen."
+      },
+      {
+        "title": "Finish",
+        "text": "Erste Behandlung mit Terrassenöl."
+      }
+    ],
+    "table": null,
+    "faqs": [
+      {
+        "q": "Welches Holz eignet sich?",
+        "a": "Bangkirai und Cumaru für höchste Beständigkeit. Douglasie als günstigere Alternative."
+      },
+      {
+        "q": "Was kostet eine Terrasse?",
+        "a": "90-200 €/m² inkl. Montage je nach Holzart."
+      }
+    ]
+  },
+  "terrassenreinigung.html": {
+    "title": "Terrassenreinigung",
+    "hero_desc": "Professionelle Reinigung und Pflege für Ihre Holzterrasse.",
+    "intro": "Witterung, Moos und Schmutz setzen jeder Terrasse zu. Unsere Reinigung bringt Ihr Holz wieder zum Strahlen.",
+    "info_box": "Regelmäßige Reinigung und Ölung verlängert die Lebensdauer um 10-15 Jahre.",
+    "benefits_title": "Ihre Vorteile",
+    "benefits": [
+      {
+        "icon": "shower",
+        "title": "Tiefenreinigung",
+        "text": "Entfernung von Moos, Algen und Schmutz."
+      },
+      {
+        "icon": "sync-alt",
+        "title": "Wie Neu",
+        "text": "Erstrahlt im ursprünglichen Ton."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Schutz",
+        "text": "Ölung schützt langfristig."
+      },
+      {
+        "icon": "leaf",
+        "title": "Umweltfreundlich",
+        "text": "Biologisch abbaubare Reiniger."
+      }
+    ],
+    "process_title": "Unser Ablauf",
+    "process": [
+      {
+        "title": "Inspektion",
+        "text": "Begutachtung des Zustands."
+      },
+      {
+        "title": "Vorreinigung",
+        "text": "Entfernung grober Verschmutzungen."
+      },
+      {
+        "title": "Reinigung",
+        "text": "Schonende Tiefenreinigung."
+      },
+      {
+        "title": "Pflege",
+        "text": "Auftragen von Terrassenöl."
+      }
+    ],
+    "table": null,
+    "faqs": [
+      {
+        "q": "Wie oft reinigen?",
+        "a": "Wir empfehlen alle 1-2 Jahre je nach Witterung."
+      },
+      {
+        "q": "Hochdruckreiniger?",
+        "a": "Nein, wir nutzen schonende Spezialgeräte statt Hochdruck."
+      }
+    ]
+  },
+  "objektbau-gewerbebau.html": {
+    "title": "Objektbau & Gewerbebau",
+    "hero_desc": "Bodenbeläge für Gewerbe, Büros und öffentliche Gebäude – termingerecht und zuverlässig.",
+    "intro": "Im gewerblichen Bereich müssen Böden besonderen Anforderungen standhalten. Wir sind Ihr Partner für Großprojekte.",
+    "info_box": "Über 50 gewerbliche Projekte erfolgreich umgesetzt – von Arztpraxen bis Hotels.",
+    "benefits_title": "Ihre Vorteile",
+    "benefits": [
+      {
+        "icon": "building",
+        "title": "Großprojekte",
+        "text": "Erfahrung von 100 bis über 5.000 m²."
+      },
+      {
+        "icon": "calendar-check",
+        "title": "Termintreu",
+        "text": "Einhaltung aller Fristen."
+      },
+      {
+        "icon": "hard-hat",
+        "title": "Koordination",
+        "text": "Abstimmung mit anderen Gewerken."
+      },
+      {
+        "icon": "file-contract",
+        "title": "VOB-konform",
+        "text": "Alle Arbeiten nach VOB-Standard."
+      }
+    ],
+    "process_title": "Unser Ablauf",
+    "process": [
+      {
+        "title": "Ausschreibung",
+        "text": "Detailliertes Angebot nach LV."
+      },
+      {
+        "title": "Planung",
+        "text": "Bauablaufplanung mit Bauleitung."
+      },
+      {
+        "title": "Ausführung",
+        "text": "Termingerechte Verlegung."
+      },
+      {
+        "title": "Abnahme",
+        "text": "Protokollierte Abnahme nach VOB."
+      }
+    ],
+    "table": null,
+    "faqs": [
+      {
+        "q": "Welche Beläge für Gewerbe?",
+        "a": "Vinyl, Kautschuk und NK 33/34 Laminat sind besonders beliebt."
+      },
+      {
+        "q": "Arbeiten am Wochenende?",
+        "a": "Ja, auch außerhalb Ihrer Geschäftszeiten möglich."
+      }
+    ]
+  },
+  "tischlerarbeiten.html": {
+    "title": "Tischlerarbeiten",
+    "hero_desc": "Maßgefertigte Holzarbeiten vom Meisterbetrieb.",
+    "intro": "Neben Bodenbelägen bieten wir individuelle Tischlerarbeiten – von Einbauschränken bis Sonderanfertigungen.",
+    "info_box": "Unsere Tischlerarbeiten werden exakt auf Ihre Raummaße gefertigt – für perfekte Passgenauigkeit.",
+    "benefits_title": "Ihre Vorteile",
+    "benefits": [
+      {
+        "icon": "ruler-combined",
+        "title": "Maßanfertigung",
+        "text": "Millimetergenaue Fertigung."
+      },
+      {
+        "icon": "tree",
+        "title": "Echtes Holz",
+        "text": "Hochwertige Massivhölzer und Furniere."
+      },
+      {
+        "icon": "palette",
+        "title": "Individuell",
+        "text": "Design ganz nach Ihren Wünschen."
+      },
+      {
+        "icon": "check-circle",
+        "title": "Aus einer Hand",
+        "text": "Boden und Möbel perfekt abgestimmt."
+      }
+    ],
+    "process_title": "Unser Ablauf",
+    "process": [
+      {
+        "title": "Beratung",
+        "text": "Entwurfsgespräch und Aufmaß."
+      },
+      {
+        "title": "Planung",
+        "text": "Detaillierte Zeichnung und Materialauswahl."
+      },
+      {
+        "title": "Fertigung",
+        "text": "Handwerkliche Fertigung in unserer Werkstatt."
+      },
+      {
+        "title": "Montage",
+        "text": "Professionelle Montage vor Ort."
+      }
+    ],
+    "table": null,
+    "faqs": [
+      {
+        "q": "Welche Arbeiten bieten Sie an?",
+        "a": "Einbauschränke, Regale, Wandverkleidungen, Türrahmen und mehr."
+      },
+      {
+        "q": "Wie lange dauert eine Maßanfertigung?",
+        "a": "2-6 Wochen von Bestellung bis Montage."
+      }
+    ]
+  },
+  "tuerenbau.html": {
+    "title": "Türenbau",
+    "hero_desc": "Maßgefertigte Türen und professioneller Einbau.",
+    "intro": "Türen prägen den Charakter eines Raumes. Wir liefern und montieren Innentüren, Schiebetüren und Sonderanfertigungen.",
+    "info_box": "Passende Türen zum Parkettboden schaffen ein harmonisches Gesamtbild.",
+    "benefits_title": "Ihre Vorteile",
+    "benefits": [
+      {
+        "icon": "door-open",
+        "title": "Passgenau",
+        "text": "Exakter Einbau auch bei schwierigen Maßen."
+      },
+      {
+        "icon": "palette",
+        "title": "Harmonisch",
+        "text": "Tür und Boden aus einem Guss."
+      },
+      {
+        "icon": "drafting-compass",
+        "title": "Sonderlösungen",
+        "text": "Schiebetüren und Spezialmaße."
+      },
+      {
+        "icon": "volume-mute",
+        "title": "Schallschutz",
+        "text": "Türen mit Schalldämm-Werten."
+      }
+    ],
+    "process_title": "Unser Ablauf",
+    "process": [
+      {
+        "title": "Aufmaß",
+        "text": "Vermessung der Türöffnungen."
+      },
+      {
+        "title": "Auswahl",
+        "text": "Design, Holzart und Beschläge."
+      },
+      {
+        "title": "Bestellung",
+        "text": "Bestellung nach Maß."
+      },
+      {
+        "title": "Montage",
+        "text": "Einbau inkl. Zargen und Beschläge."
+      }
+    ],
+    "table": null,
+    "faqs": [
+      {
+        "q": "Welche Türarten?",
+        "a": "Innentüren, Schiebetüren, Glastüren mit Holzrahmen."
+      },
+      {
+        "q": "Kann die Tür zum Parkett passen?",
+        "a": "Ja! Holzart und Oberfläche stimmen wir aufeinander ab."
+      }
+    ]
+  },
+  "individuelle-beratung.html": {
+    "title": "Individuelle Beratung",
+    "hero_desc": "Persönliche Beratung für Ihr Bodenprojekt – kompetent und unverbindlich.",
+    "intro": "Jeder Raum ist anders. Unsere kostenlose Beratung ist der erste Schritt zu Ihrem Traumboden.",
+    "info_box": "Wir bringen Originalmuster zu Ihnen – so sehen Sie das Material bei Ihrem Licht und neben Ihren Möbeln.",
+    "benefits_title": "Ihre Vorteile",
+    "benefits": [
+      {
+        "icon": "comments",
+        "title": "Persönlich",
+        "text": "Beratung vor Ort oder in unserer Ausstellung."
+      },
+      {
+        "icon": "euro-sign",
+        "title": "Kostenlos",
+        "text": "Beratung und Erstangebot unverbindlich."
+      },
+      {
+        "icon": "swatchbook",
+        "title": "Musterservice",
+        "text": "Originalmuster für Ihre Räume."
+      },
+      {
+        "icon": "file-alt",
+        "title": "Transparenz",
+        "text": "Angebot ohne versteckte Kosten."
+      }
+    ],
+    "process_title": "So läuft unsere Beratung ab",
+    "process": [
+      {
+        "title": "Kontakt",
+        "text": "Rufen Sie an oder schreiben Sie uns."
+      },
+      {
+        "title": "Termin",
+        "text": "Wir kommen zu Ihnen."
+      },
+      {
+        "title": "Beratung",
+        "text": "Aufmaß, Musterauswahl und Prüfung."
+      },
+      {
+        "title": "Angebot",
+        "text": "Transparentes, unverbindliches Angebot."
+      }
+    ],
+    "table": null,
+    "faqs": [
+      {
+        "q": "Ist die Beratung kostenlos?",
+        "a": "Ja, Erstberatung inkl. Aufmaß ist immer kostenlos."
+      },
+      {
+        "q": "Wie schnell bekomme ich einen Termin?",
+        "a": "In 3-5 Werktagen, bei Dringlichkeit auch kurzfristiger."
+      }
+    ]
+  },
+  "energetische-sanierung.html": {
+    "title": "Energetische Sanierung",
+    "hero_desc": "Böden als Teil der energetischen Modernisierung – Dämmung und Verlegung aus einer Hand.",
+    "intro": "Bei energetischer Sanierung spielt der Fußbodenaufbau eine zentrale Rolle. Wir verbinden Dämmung, Estrich und Bodenbelag zu einem optimalen System.",
+    "info_box": "Ein gut gedämmter Fußboden kann die Heizkosten um bis zu 15% senken und den Wohnkomfort erheblich steigern.",
+    "benefits_title": "Ihre Vorteile",
+    "benefits": [
+      {
+        "icon": "leaf",
+        "title": "Energieeinsparung",
+        "text": "Bis zu 15% weniger Heizkosten."
+      },
+      {
+        "icon": "temperature-low",
+        "title": "Warme Füße",
+        "text": "Spürbar wärmer dank professioneller Dämmung."
+      },
+      {
+        "icon": "award",
+        "title": "Förderfähig",
+        "text": "Beratung zu KfW- und BAFA-Fördermitteln."
+      },
+      {
+        "icon": "check-circle",
+        "title": "Alles aus einer Hand",
+        "text": "Dämmung und Boden in einem Durchgang."
+      }
+    ],
+    "process_title": "Unser Ablauf",
+    "process": [
+      {
+        "title": "Analyse",
+        "text": "Energetische Bewertung des Fußbodenaufbaus."
+      },
+      {
+        "title": "Planung",
+        "text": "Auswahl der Dämmmaterialien und des Bodenbelags."
+      },
+      {
+        "title": "Einbau",
+        "text": "Fachmännischer Einbau von Dämmung und Boden."
+      },
+      {
+        "title": "Dokumentation",
+        "text": "Nachweis für Fördermittelanträge."
+      }
+    ],
+    "table": null,
+    "faqs": [
+      {
+        "q": "Welche Förderungen gibt es?",
+        "a": "KfW und BAFA fördern energetische Sanierungen. Wir beraten Sie zu den Möglichkeiten."
+      },
+      {
+        "q": "Muss der alte Boden raus?",
+        "a": "Nicht immer. In manchen Fällen kann über dem bestehenden Aufbau gedämmt werden."
+      }
+    ]
+  },
+  "raumlange-massivholzdielen.html": {
+    "title": "Raumlange Massivholzdielen",
+    "hero_desc": "Exklusive raumfüllende Dielen aus einem Stück – für königliches Wohnen.",
+    "intro": "Raumlange Massivholzdielen sind die Königsklasse der Bodenbau. Ein Brett, ein Raum – keine Stöße, keine Unterbrechungen.",
+    "info_box": "Raumlange Dielen werden individuell nach Ihren Raummaßen gefertigt – jedes Brett ist ein Unikat aus der Natur.",
+    "benefits_title": "Ihre Vorteile",
+    "benefits": [
+      {
+        "icon": "arrows-alt-h",
+        "title": "Keine Stöße",
+        "text": "Durchgehende Dielen ohne Unterbrechung."
+      },
+      {
+        "icon": "gem",
+        "title": "Exklusiv",
+        "text": "Individuelle Maßanfertigung für Ihren Raum."
+      },
+      {
+        "icon": "tree",
+        "title": "Premium-Holz",
+        "text": "Nur ausgesuchte Stämme werden verwendet."
+      },
+      {
+        "icon": "home",
+        "title": "Wertsteigerung",
+        "text": "Maximale Aufwertung Ihrer Immobilie."
+      }
+    ],
+    "process_title": "Unser Ablauf",
+    "process": [
+      {
+        "title": "Aufmaß",
+        "text": "Exaktes Aufmaß jedes Raumes."
+      },
+      {
+        "title": "Fertigung",
+        "text": "Individuelle Maßanfertigung der Dielen."
+      },
+      {
+        "title": "Verlegung",
+        "text": "Fachgerechte Montage mit spezieller Technik."
+      },
+      {
+        "title": "Finish",
+        "text": "Oberflächenbehandlung nach Ihren Wünschen."
+      }
+    ],
+    "table": null,
+    "faqs": [
+      {
+        "q": "Welche Längen sind möglich?",
+        "a": "Standardmäßig bis 6 m, auf Wunsch auch darüber hinaus."
+      },
+      {
+        "q": "Was kosten raumlange Dielen?",
+        "a": "Je nach Holzart und Breite ab ca. 120 €/m² aufwärts."
+      }
+    ]
+  },
+  "treppenverkleidungen.html": {
+    "title": "Treppenverkleidungen",
+    "hero_desc": "Ihre Treppe im passenden Holzdesign – nahtloser Übergang vom Boden zur Treppe.",
+    "intro": "Eine Treppenverkleidung mit dem gleichen Holz wie Ihr Parkettboden schafft ein stimmiges Gesamtbild im ganzen Haus.",
+    "info_box": "Treppenverkleidungen aus Parkett sind nicht nur optisch schön, sondern bieten auch einen besseren Trittschall als Stein oder Fliesen.",
+    "benefits_title": "Ihre Vorteile",
+    "benefits": [
+      {
+        "icon": "shoe-prints",
+        "title": "Einheitlich",
+        "text": "Treppe und Boden aus dem gleichen Holz."
+      },
+      {
+        "icon": "volume-mute",
+        "title": "Leise",
+        "text": "Deutlich besserer Trittschall als Stein."
+      },
+      {
+        "icon": "palette",
+        "title": "Vielfalt",
+        "text": "Alle Holzarten und Oberflächen möglich."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Rutschhemmend",
+        "text": "Spezielle Kantenprofile für Sicherheit."
+      }
+    ],
+    "process_title": "Unser Ablauf",
+    "process": [
+      {
+        "title": "Aufmaß",
+        "text": "Präzise Vermessung jeder Stufe."
+      },
+      {
+        "title": "Fertigung",
+        "text": "Maßanfertigung der Stufenplatten."
+      },
+      {
+        "title": "Montage",
+        "text": "Fachgerechte Verklebung und Anpassung."
+      },
+      {
+        "title": "Finish",
+        "text": "Montage von Kantenprofilen."
+      }
+    ],
+    "table": null,
+    "faqs": [
+      {
+        "q": "Kann jede Treppe verkleidet werden?",
+        "a": "Ja – Beton, Stein und vorhandene Holztreppen können mit Parkett verkleidet werden."
+      },
+      {
+        "q": "Wie lange dauert die Montage?",
+        "a": "In der Regel 1-2 Tage für eine Standard-Treppe."
+      }
+    ]
+  },
+  "handlaeufe-parkett.html": {
+    "title": "Handläufe aus Parkett",
+    "hero_desc": "Individuelle Handläufe passend zu Ihrem Parkettboden – für ein stimmiges Gesamtbild.",
+    "intro": "Handläufe aus dem gleichen Holz wie Ihr Parkettboden schaffen eine durchgängige Designlinie vom Boden bis zum Geländer.",
+    "info_box": "Holzhandläufe fühlen sich angenehm warm an und bieten im Vergleich zu Metall einen natürlichen Grip.",
+    "benefits_title": "Ihre Vorteile",
+    "benefits": [
+      {
+        "icon": "hand-holding",
+        "title": "Passend",
+        "text": "Gleiches Holz wie Ihr Boden."
+      },
+      {
+        "icon": "thermometer-half",
+        "title": "Warm",
+        "text": "Angenehme Haptik statt kaltem Metall."
+      },
+      {
+        "icon": "ruler-combined",
+        "title": "Maßarbeit",
+        "text": "Exakt an Ihre Treppe angepasst."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Sicher",
+        "text": "Natürlicher Grip für sicheren Halt."
+      }
+    ],
+    "process_title": "Unser Ablauf",
+    "process": [
+      {
+        "title": "Aufmaß",
+        "text": "Vermessung des Treppenlaufs."
+      },
+      {
+        "title": "Holzauswahl",
+        "text": "Abstimmung mit Ihrem Parkettboden."
+      },
+      {
+        "title": "Fertigung",
+        "text": "Handwerkliche Fertigung nach Maß."
+      },
+      {
+        "title": "Montage",
+        "text": "Professionelle Montage und Finish."
+      }
+    ],
+    "table": null,
+    "faqs": [
+      {
+        "q": "Welche Profile gibt es?",
+        "a": "Rund, oval und eckig – wir beraten Sie zur passenden Form."
+      },
+      {
+        "q": "Kann der Handlauf zum Parkett passen?",
+        "a": "Ja, wir verwenden exakt die gleiche Holzart und Oberfläche."
+      }
+    ]
+  },
+  "einlassungen-sauberlaeufe.html": {
+    "title": "Einlassungen & Sauberläufe",
+    "hero_desc": "Professionell eingelassene Fußmatten und Sauberläufe – für saubere Eingangsbereiche.",
+    "intro": "Eingelassene Sauberläufe schützen Ihre hochwertigen Böden vor Schmutz und Feuchtigkeit direkt am Eingang.",
+    "info_box": "Ein professioneller Sauberlauf fängt bis zu 90% des eingetragenen Schmutzes ab und verlängert die Lebensdauer Ihres Bodens.",
+    "benefits_title": "Ihre Vorteile",
+    "benefits": [
+      {
+        "icon": "door-closed",
+        "title": "Schutz",
+        "text": "Schmutz und Nässe bleiben am Eingang."
+      },
+      {
+        "icon": "ruler-combined",
+        "title": "Bündig",
+        "text": "Flächenbündig eingelassen – keine Stolperfallen."
+      },
+      {
+        "icon": "palette",
+        "title": "Passend",
+        "text": "Farblich abgestimmt auf Ihren Boden."
+      },
+      {
+        "icon": "sync-alt",
+        "title": "Austauschbar",
+        "text": "Matten können einfach gewechselt werden."
+      }
+    ],
+    "process_title": "Unser Ablauf",
+    "process": [
+      {
+        "title": "Planung",
+        "text": "Festlegung von Position und Größe."
+      },
+      {
+        "title": "Einbau",
+        "text": "Fräsung der Vertiefung im Bodenaufbau."
+      },
+      {
+        "title": "Rahmen",
+        "text": "Montage eines Edelstahl- oder Alurahmes."
+      },
+      {
+        "title": "Fertig",
+        "text": "Einlegen des passenden Sauberlaufs."
+      }
+    ],
+    "table": null,
+    "faqs": [
+      {
+        "q": "Kann das nachträglich eingebaut werden?",
+        "a": "Ja, ein nachträglicher Einbau ist bei den meisten Bodenaufbauten möglich."
+      },
+      {
+        "q": "Welche Matten-Arten gibt es?",
+        "a": "Bürsten, Textil, Gummi oder Kombinationsmatten – je nach Beanspruchung."
+      }
+    ]
+  },
+  "funkenschutzplatten.html": {
+    "title": "Funkenschutzplatten",
+    "hero_desc": "Schutz für Ihren Boden vor Kaminöfen – stilvolle Funkenschutzplatten nach Maß.",
+    "intro": "Ein Kaminofen bringt Wärme und Gemütlichkeit. Damit Ihr Parkettboden dabei geschützt bleibt, liefern und montieren wir passende Funkenschutzplatten.",
+    "info_box": "Funkenschutzplatten sind bei Kaminöfen gesetzlich vorgeschrieben und müssen bestimmte Mindestmaße erfüllen.",
+    "benefits_title": "Ihre Vorteile",
+    "benefits": [
+      {
+        "icon": "fire",
+        "title": "Hitze-Schutz",
+        "text": "Zuverlässiger Schutz vor Funkenflug und Strahlungswärme."
+      },
+      {
+        "icon": "gavel",
+        "title": "Normgerecht",
+        "text": "Konform mit allen baurechtlichen Vorgaben."
+      },
+      {
+        "icon": "gem",
+        "title": "Edel",
+        "text": "Glas, Stahl oder Naturstein – passend zum Interieur."
+      },
+      {
+        "icon": "ruler-combined",
+        "title": "Maßanfertigung",
+        "text": "Exakt zugeschnitten auf Ihren Ofen und Raum."
+      }
+    ],
+    "process_title": "Unser Ablauf",
+    "process": [
+      {
+        "title": "Beratung",
+        "text": "Aufmaß und Materialauswahl."
+      },
+      {
+        "title": "Fertigung",
+        "text": "Maßanfertigung der Platte."
+      },
+      {
+        "title": "Lieferung",
+        "text": "Transport und Einbringung."
+      },
+      {
+        "title": "Montage",
+        "text": "Fachgerechte Platzierung."
+      }
+    ],
+    "table": null,
+    "faqs": [
+      {
+        "q": "Welche Materialien gibt es?",
+        "a": "Sicherheitsglas, Edelstahl, Schiefer und Granit sind die gängigsten Optionen."
+      },
+      {
+        "q": "Welche Mindestmaße gelten?",
+        "a": "Seitlich 30 cm und vorne 50 cm über den Kaminofen hinaus (länderabhängig)."
+      }
+    ]
+  },
+  "kuechenarbeitsplatten.html": {
+    "title": "Küchenarbeitsplatten",
+    "hero_desc": "Massivholz-Arbeitsplatten für Ihre Küche – natürlich, robust und individuell.",
+    "intro": "Eine Massivholz-Arbeitsplatte bringt Wärme und Natürlichkeit in Ihre Küche. Wir fertigen und montieren Arbeitsplatten aus Eiche, Buche, Nussbaum und mehr.",
+    "info_box": "Holz-Arbeitsplatten sind antibakteriell – Studien zeigen, dass Holz Keime schneller abtötet als Kunststoff.",
+    "benefits_title": "Ihre Vorteile",
+    "benefits": [
+      {
+        "icon": "utensils",
+        "title": "Natürlich",
+        "text": "Echtes Massivholz für eine warme Küchenatmosphäre."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Robust",
+        "text": "Richtig behandelt extrem langlebig und belastbar."
+      },
+      {
+        "icon": "ruler-combined",
+        "title": "Nach Maß",
+        "text": "Exakte Maßanfertigung inkl. Ausschnitten für Spüle und Herd."
+      },
+      {
+        "icon": "sync-alt",
+        "title": "Renovierbar",
+        "text": "Kann bei Bedarf abgeschliffen und neu behandelt werden."
+      }
+    ],
+    "process_title": "Unser Ablauf",
+    "process": [
+      {
+        "title": "Aufmaß",
+        "text": "Exakte Vermessung Ihrer Küche."
+      },
+      {
+        "title": "Holzwahl",
+        "text": "Auswahl von Holzart und Kantenform."
+      },
+      {
+        "title": "Fertigung",
+        "text": "Zuschnitt und Ausschnitte für Einbauten."
+      },
+      {
+        "title": "Montage",
+        "text": "Einbau und Ölung der Oberfläche."
+      }
+    ],
+    "table": null,
+    "faqs": [
+      {
+        "q": "Welches Holz eignet sich am besten?",
+        "a": "Eiche ist der Klassiker – hart und wasserbeständig. Buche und Nussbaum sind edle Alternativen."
+      },
+      {
+        "q": "Wie pflege ich eine Holzarbeitsplatte?",
+        "a": "Regelmäßiges Nachölen alle 3-6 Monate. Keine aggressiven Reiniger verwenden."
+      }
+    ]
+  },
+  "wandverkleidungen-parkett.html": {
+    "title": "Wandverkleidungen aus Parkett",
+    "hero_desc": "Holz an der Wand – exklusive Akzente mit Parkettverkleidungen.",
+    "intro": "Parkett ist nicht nur für den Boden. Wandverkleidungen aus Parkett setzen markante Designakzente und schaffen eine warme, einladende Raumatmosphäre.",
+    "info_box": "Parkett an der Wand ist ein Mega-Trend im Interior Design und eignet sich perfekt als Akzentwand im Wohn- oder Schlafzimmer.",
+    "benefits_title": "Ihre Vorteile",
+    "benefits": [
+      {
+        "icon": "home",
+        "title": "Design-Statement",
+        "text": "Holzwand als eindrucksvoller Blickfang."
+      },
+      {
+        "icon": "volume-mute",
+        "title": "Akustik",
+        "text": "Holz an der Wand verbessert die Raumakustik."
+      },
+      {
+        "icon": "thermometer-half",
+        "title": "Wärmedämmung",
+        "text": "Zusätzliche Isolierung an Außenwänden."
+      },
+      {
+        "icon": "palette",
+        "title": "Vielfalt",
+        "text": "Alle Holzarten und Verlegemuster möglich."
+      }
+    ],
+    "process_title": "Unser Ablauf",
+    "process": [
+      {
+        "title": "Design",
+        "text": "Planung der Akzentwand und Holzauswahl."
+      },
+      {
+        "title": "Unterkonstruktion",
+        "text": "Montage einer Tragstruktur."
+      },
+      {
+        "title": "Verkleidung",
+        "text": "Fachgerechte Montage des Parketts."
+      },
+      {
+        "title": "Finish",
+        "text": "Abschlussleisten und finale Kontrolle."
+      }
+    ],
+    "table": null,
+    "faqs": [
+      {
+        "q": "Welches Parkett eignet sich für die Wand?",
+        "a": "Leichte Varianten wie Fertigparkett oder dünnes Massivholz eignen sich besonders gut."
+      },
+      {
+        "q": "Kann man das gleiche Parkett wie am Boden verwenden?",
+        "a": "Ja, für ein durchgängiges Design verwenden wir oft das identische Parkett."
+      }
+    ]
+  },
+  "vinyl-nassbereich.html": {
+    "title": "Vinyl im Nassbereich",
+    "hero_desc": "Wasserfester Designboden für Bad und Wellnessbereiche – stylisch und pflegeleicht.",
+    "intro": "Vinyl im Nassbereich bietet die perfekte Kombination: die warme Optik von Holz mit der Wasserresistenz einer Fliese.",
+    "info_box": "Modernes Vinyl für Nassbereiche ist zu 100% wasserdicht, rutschfest und fußwarm – ganz ohne die Kälte von Fliesen.",
+    "benefits_title": "Ihre Vorteile",
+    "benefits": [
+      {
+        "icon": "tint",
+        "title": "100% Wasserdicht",
+        "text": "Kein Aufquellen, kein Wasserschaden."
+      },
+      {
+        "icon": "shoe-prints",
+        "title": "Rutschfest",
+        "text": "Spezielle Oberflächen für nasse Bereiche."
+      },
+      {
+        "icon": "thermometer-half",
+        "title": "Fußwarm",
+        "text": "Deutlich wärmer als Fliesen."
+      },
+      {
+        "icon": "broom",
+        "title": "Pflegeleicht",
+        "text": "Einfache Reinigung, keine Fugen."
+      }
+    ],
+    "process_title": "Unser Ablauf",
+    "process": [
+      {
+        "title": "Beratung",
+        "text": "Auswahl des passenden Nassraum-Vinyls."
+      },
+      {
+        "title": "Abdichtung",
+        "text": "Professionelle Untergrundabdichtung."
+      },
+      {
+        "title": "Verlegung",
+        "text": "Vollflächige Verklebung mit Nahtversiegelung."
+      },
+      {
+        "title": "Finish",
+        "text": "Silikonfugen und Übergangsprofile."
+      }
+    ],
+    "table": null,
+    "faqs": [
+      {
+        "q": "Ist Vinyl im Bad wirklich wasserdicht?",
+        "a": "Ja! Vollflächig verklebtes Vinyl mit versiegelten Nähten ist zu 100% wasserdicht."
+      },
+      {
+        "q": "Kann Vinyl auf Fliesen im Bad verlegt werden?",
+        "a": "Ja, nach fachgerechter Vorbereitung kann Vinyl direkt auf vorhandene Fliesen geklebt werden."
+      }
+    ]
+  }
+}
