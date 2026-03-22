@@ -2,7 +2,7 @@
  * Konfigurator – Parkett Heidt
  * Step navigation, option selection, file upload, validation, form submission
  */
-(function() {
+document.addEventListener('DOMContentLoaded', function() {
   'use strict';
 
   const state = {
@@ -297,4 +297,4 @@ NACHRICHT: ${d.nachricht || '–'}
 `;
   }
 
-})();
+});
